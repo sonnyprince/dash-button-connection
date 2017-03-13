@@ -1,0 +1,11 @@
+{
+  "name": "Dash button connectivity test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "Sonny Prince",
+  "license": "GPL",
+  "dependencies": {
+    "node-dash-button": "^0.2.5"
+  }
+}
